@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://Yashasvi0884.github.io/my-portfolio-site",
+  "homepage": "https://Yashasvi0884.github.io/Yashasvi-chhaliya-0884",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://Yashasvi0884.github.io/my-portfolio-site'",
+    "build-gh": "parcel build --public-url 'https://Yashasvi0884.github.io/Yashasvi-chhaliya-0884'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
